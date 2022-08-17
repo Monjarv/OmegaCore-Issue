@@ -1,38 +1,27 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Reporta un Bug
+about: Compila il modulo per reportare un Bug.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descrivi il Bug**
+Una spiegazione chiara e concisa:
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Come riprodurre il Bug**
+Istruzioni passo-passo per poter riprodurre il Bug (esempio):
+1. Gioca come '...'
+2. Clicca '....'
+3. Uccidi un giocatore '....'
+4. Il giocatore è immortale.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Se possiedi Screenshot mandali qui.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Ruolo impersonato al momento del Bug**
+ - Ruolo: [e.g. SCP-457]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Informazioni addizionali**
+Ogni altre informazione deve essere scritta qui.
